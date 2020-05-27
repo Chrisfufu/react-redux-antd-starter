@@ -33,3 +33,4 @@ Thumbs.db
 *.pyo
 node_modules
 dist
+package-lock.json
